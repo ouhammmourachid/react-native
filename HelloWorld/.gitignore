@@ -1,0 +1,18 @@
+# Dependency directories
+/node_modules
+/ios/Pods
+/ios/Podfile.lock
+/android/.gradle
+/android/build
+/android/app/build
+
+# Build files
+/ios/build
+/android/app/build
+
+# Logs
+*.log
+
+# IDE files
+/.idea
+/.vscode
